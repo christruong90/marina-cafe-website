@@ -1,0 +1,55 @@
+body{
+	background: url(../images/background.jpg);
+}
+
+header img { width: 100%; }
+
+#banner img {
+	width: 100%;
+	margin-top: 50px;
+}
+
+footer {
+	text-align: center;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.comments {
+	margin: auto;
+}
+
+.gender-header {
+	width: 20%;
+}
+
+#roles {
+	width: 50%;
+	margin: auto;
+}
+
+#experience {
+	width: 97%;
+	margin: auto;
+}
+
+#gender {
+	width: 20%;
+}
+
+.jumbotron {
+    background-image: url(../images/coffeeshop.png);
+    background-position: 40% 50%;
+	color: #FFF;
+}
+
+.job-buttons {
+	text-align: center;
+}
+
+#the-forms {
+	width: 97%;
+	margin: auto;
+}
